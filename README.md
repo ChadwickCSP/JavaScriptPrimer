@@ -22,7 +22,7 @@ In this project, you will take a deep dive into Javascript programming independe
 ### Sign up for Project
 
 Sign up for the project repository here: 
-[TODO](TBD)
+[https://classroom.github.com/a/LhxSmFSC](https://classroom.github.com/a/LhxSmFSC)
 
 After your repository has initialized it, clone it to your computer. I recommend
 putting it in your `ap-csp` directory.
@@ -81,6 +81,8 @@ We will be utilizing a Udacity course to provide practice problems to work on th
 Udacity Course: [LINK](https://www.udacity.com/course/intro-to-javascript--ud803)
 
 To begin, click the `START FREE COURSE` button.
+
+![README/Start.png](README/Start.png)
 
 For Milestone 1, you are expected to sign-up for the course and complete Lesson 2. In the `quizzes` directory of this repository are templates for each of the Quizzes throughout the project. You are expected to provide solutions for each of the lesson files present in the `quizzes/Lesson 2` directory.
 
